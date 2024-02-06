@@ -5,7 +5,6 @@ from Deck import Deck
 
     
 '''
-Note: DO NOT MODIFY THIS FUNCTION. If your grid is not displaying properly, check your code first or contact us. 
 
 displays a grid of cards arranged in 7x5 col/row formatted like this:
 [   [row1, row2, row3...],  <-col1
